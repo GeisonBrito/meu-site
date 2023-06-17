@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(125, 98, 201);
+}
+table, tbody, thead,tfoot,tr, th, td{
+    background-color: brown;
+
+    border-style: solid;
+    border-width: 2px;
+    border-collapse: collapse;
+    border-color: rgb(76, 220, 93);
+} 
+
+table{
+    margin: auto;
+    background-color: aqua;
+
+}
+
+.tabela{
+    background-color: blueviolet;
+    border-width: 1px;
+}
+
+
+
